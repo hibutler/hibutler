@@ -1,0 +1,103 @@
+.intro{
+	width: 100%;
+	text-align: center;
+}
+.intro>p.intro-dear{
+	font-size: 25px;
+	padding-top: 60px;
+	font-weight: 600;
+}
+.mockup{
+  width: 800px;
+  margin-top: 30px;
+
+}
+.intro>p{
+	font-family: raleway;
+	font-size: 20px;
+	font-weight: 400;
+	color: #45C2D2;
+}
+.features{
+
+	padding-top: 100px;
+	padding-bottom: 100px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#44c2d2+0,69c5b6+50,44c2d2+100 */
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#44c2d2+0,69c5b6+36,69c5b6+67,44c2d2+100 */
+	background: #44c2d2; /* Old browsers */
+	background: -moz-linear-gradient(left,  #44c2d2 0%, #69c5b6 36%, #69c5b6 67%, #44c2d2 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #44c2d2 0%,#69c5b6 36%,#69c5b6 67%,#44c2d2 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #44c2d2 0%,#69c5b6 36%,#69c5b6 67%,#44c2d2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#44c2d2', endColorstr='#44c2d2',GradientType=1 ); /* IE6-9 */
+
+}
+.feature-description{
+	font-size: 14px;
+	color: white;
+	padding: 15px;
+}
+.links{
+	padding-top: 40px;
+	width: 410px;
+
+
+	
+}
+div.iphone-mockup{
+	text-align: center;
+	width: 500px;
+	float: left;
+	margin-left: 50px;
+
+}
+.iphone{
+	width: 300px;
+}
+.link-feature{
+	background-color: rgba(255, 255, 255, 0.5);
+	
+	width: 200px;
+	height: 150px;
+	margin: 4px 1px 1px 2px;
+	float: right;
+
+}
+.link-feature:nth-child(even){
+	float: left;
+}
+.link-feature>p.feature-name{
+	color: white;
+	font-family: raleway;
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+.founder{
+	text-align: center;
+	width: 100%;
+	border: 1px solid #45C2D2;
+	height: 250px;
+	margin:10px;
+}
+img.founder{
+	
+	width: 80px;
+	height: 80px;
+	border-radius: 40px;
+	border:none;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+p.founder-name{
+	color: #45C2D2;
+	font-family: raleway;
+	font-weight: 700;
+	font-size: 18px;
+}
+p.fonction{
+	color: #45C2D2;
+	font-size: 13px;
+	font-family: raleway;
+	font-weight: 300;
+}

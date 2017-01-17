@@ -1,0 +1,75 @@
+/* -------------------------------------
+ * Utilities classes
+ * These are examples of utilities classes
+ * Feel free to change them and create your own
+ * ------------------------------------- */
+.padded {
+  padding-top: 8em;
+  padding-bottom: 20px;
+}
+.bg-red {
+  background: $red;
+  color: white;
+}
+.bg-blue {
+  background: $blue;
+  color: white;
+}
+.bg-yellow {
+  background: $yellow;
+  color: white;
+}
+.bg-orange {
+  background: $orange;
+  color: white;
+}
+.bg-green {
+  background: $green;
+  color: white;
+}
+.bg-purple {
+  background: $purple;
+  color: white;
+}
+.bg-purpleyellow{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0b1539+43,ac2467+73,f0ca9c+100 */
+background-image: -webkit-linear-gradient(217deg, #000e3b 1%, #210779 27%, #903897 67%, #ffe499 94%),-webkit-linear-gradient(#1e2652, #1e2652);
+background-image: -o-linear-gradient(217deg, #000e3b 1%, #210779 27%, #903897 67%, #ffe499 94%),-o-linear-gradient(#1e2652, #1e2652);
+background-image: linear-gradient(307deg, #000e3b 1%, #210779 27%, #903897 67%, #ffe499 94%),linear-gradient(#1e2652, #1e2652);
+
+
+}
+.bg-licorn{
+  background-image: url("assets/licorn.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: auto;
+
+}
+.bg-gray{
+  background-color: #f2f5f8;
+  
+}
+h1{
+  font-family: brandon-grotesque,Helvetica,sans-serif;
+  font-size: 40px;
+  line-height: 42px;
+  color: $gray-lighterplus;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 800;
+}
+h1.dark{
+  color:#31475f;
+}
+p{
+  font-family: Lato,Helvetica,sans-serif;
+}
+div.bg-gray>div.padded{
+  padding-top: 20px;
+}
+.centered{
+  margin-right: auto;
+  margin-left: auto;
+}
+

@@ -1,0 +1,15 @@
+- name: Kris Syska
+  image : kris.jpg
+  fonction : dev
+  link : www.syska.com
+  phone : 0471581171
+  messenger : m.messenger
+  linkedin : l.be
+- name: Maxime Dupont
+  image : max.png
+  fonction : Growth Hacker
+  link : www.syska.com
+  phone : 0471581171
+  messenger : m.messenger
+  linkedin : l.be
+

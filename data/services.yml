@@ -1,0 +1,34 @@
+- name: website & web app
+  icon: glyphicon-globe
+  description : lorem ipsum dolor
+  link : /test
+- name: social media
+  icon: glyphicon-heart-empty
+  description : lorem ipsum dolor
+  link : /test
+- name: mobile app
+  icon: glyphicon-phone
+  description : lorem ipsum dolor
+  link : /test
+- name: graphic design
+  icon: glyphicon-pencil
+  description : lorem ipsum dolor
+  link : /test
+- name: print & advertising
+  icon: glyphicon-print
+  description : lorem ipsum dolor
+  link : /test
+- name: growth strategy
+  icon: glyphicon-tower
+  description : lorem ipsum dolor
+  link : /test
+- name: prototyping
+  icon: glyphicon-wrench
+  description : lorem ipsum dolor
+  link : /test
+- name: analytics
+  icon: glyphicon-stats
+  description : lorem ipsum dolor
+  link : /test
+
+
